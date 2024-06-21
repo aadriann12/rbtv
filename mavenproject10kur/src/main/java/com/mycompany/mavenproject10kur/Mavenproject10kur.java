@@ -11,6 +11,6 @@ package com.mycompany.mavenproject10kur;
 public class Mavenproject10kur {
 
     public static void main(String[] args) {
-        System.out.println("HellogyetjnyeWorld!");
+        System.out.println("HellogyetjnyeWtgfrjorld!");
     }
 }
